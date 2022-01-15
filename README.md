@@ -1,7 +1,6 @@
-### 👋 안녕하세요 성장하는 개발자 윤효정입니다.
-🌱 https://ynhyojng.tistory.com/
+### 👋 Hi there! 👋
+#### I'm Hyojeong Yun, a growing developer.🌱
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinplest)](https://hits.seeyoufarm.com)
 <!--
 **hyojeongyun/hyojeongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +18,9 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hyojeongyun&show_icons=true&hide_border=true)](https://github.com/hyojeongyun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojeongyun&layout=compact)](https://github.com/hyojeongyun)
+
+### 📚 I’m currently learning ...
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+#### 📫 Email: ynhyojng@gmail.com
+#### 💬 Blog: https://ynhyojng.tistory.com/

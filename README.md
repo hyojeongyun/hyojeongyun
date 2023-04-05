@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 ### 📚 I’m currently learning ...
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-Aws&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
+<br/><a href="https://www.credly.com/badges/ccb0695c-6220-4a69-bd5f-163e11a4942e/public_url" target="_blank" title="Badge AWS Certified Solutions Architect – Associate" alt="AWS Certified Solutions Architect – Associate">![aws-certified-solutions-architect-associate (2)](https://user-images.githubusercontent.com/63863627/230008060-dffd69a0-2235-4014-94c1-c3ff21ff8a33.png)</a>
+
 #### 📫 Email: ynhyojng@gmail.com
 #### 💬 Blog: https://ynhyojng.tistory.com/

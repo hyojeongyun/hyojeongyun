@@ -1,4 +1,12 @@
 ### 👋 Hi there! 👋
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hyojeongyun"
+  width="600"
+  height="300"
+/>
+</a>
+
 #### I'm Hyojeong Yun, a growing developer.🌱
 
 <!--
